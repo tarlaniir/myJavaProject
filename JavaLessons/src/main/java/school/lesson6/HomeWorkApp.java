@@ -26,7 +26,7 @@ public class HomeWorkApp {
     }
 
     public static void printColor() {
-        int value = 40;
+        int value = 50;
         if (value <= 0) {
             System.out.println("Красный");
         } else if (value <= 100) {
